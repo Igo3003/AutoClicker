@@ -37,4 +37,4 @@ pip install -r requirements.txt
 ---
 
 ## ✨ Futuras expansiones
-* **Añadir probabilidades ponderadas para cada área seleccionada
+* Añadir probabilidades ponderadas para cada área seleccionada
